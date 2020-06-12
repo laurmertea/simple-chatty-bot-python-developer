@@ -9,9 +9,9 @@
 
 # Your program should print the following lines:
 
-#`Hello! My name is {bot_name}.`
-#`I was created in {birth_year}.`
-#`Instead of {bot_name} print any name you choose and replace {birth_year} with the current year (four digits).`
+# `Hello! My name is {bot_name}.`
+# `I was created in {birth_year}.`
+# `Instead of {bot_name} print any name you choose and replace {birth_year} with the current year (four digits).`
 
 # Example
 # Output:
