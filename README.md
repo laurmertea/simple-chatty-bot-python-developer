@@ -1,5 +1,5 @@
 # simple-chatty-bot-python-developer
-## A simple console chat bot (as seen on the JetBrains Academy / Hyperskill python developer plan)
+## A simple console chat bot (as seen on the JetBrains Academy / Hyperskill Python developer plan)
 
 ### About
 Here, at the beginning of your programmer’s path, creating a simple console chat bot 
